@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wholesale.global-ucars.com/sitemap.xml
