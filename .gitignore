@@ -1,0 +1,10 @@
+# 生成中间产物：主站 OE 索引（1.6MB）与体检报告，不入库
+_data/
+# 本地备份
+.bak-*
+*.bak
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+# 预览临时
+_sheet*.jpg
