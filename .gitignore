@@ -8,3 +8,13 @@ _data/
 Thumbs.db
 # 预览临时
 _sheet*.jpg
+
+# 本地预览/校验临时文件
+_preview*
+_crop*
+_c[0-9].png
+_c_chery_gal.png
+_h_*.png
+_cn_cand*
+_picks.txt
+.git-push-config
